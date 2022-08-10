@@ -1,4 +1,4 @@
-# simple_calculator
+# simple-calculator
 # Author
 Noela Murugi
 # Description
