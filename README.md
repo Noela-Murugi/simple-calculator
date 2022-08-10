@@ -9,11 +9,11 @@ This is a small and simple calculator project that tests the understanding of ja
 *JavaScript<br>
 # Setup instructions
 *Open the Terminal command line: [CTRL+ALT+T]<br>
-*Clone the repository: [git clone https://github.com/Noela-Murugi/simple_calculator.git]<br>
+*Clone the repository: [git clone https://github.com/Noela-Murugi/simple-calculator.git]<br>
 *Change Directory: [cd simple_calculator]<br>
 *Open index.html file on your browser
 # Live Page
-https://Noela-Murugi.github.io/simple_calculator/
+************************
 # Contact Informantion
 Incase of any enquiries or contributions, be sure to email me at [noela.murugi@student.moringaschool.com]
 # License
