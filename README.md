@@ -1,6 +1,6 @@
 # simple_calculator
 # Author
- *Noela Murugi*
+Noela Murugi
 # Description
 This is a small and simple calculator project that tests the understanding of javascript that has been covered.
 # Technologies Used
